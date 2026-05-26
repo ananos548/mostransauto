@@ -1,0 +1,24 @@
+INFO:     Will watch for changes in these directories: ['/root/diplom']
+INFO:     Uvicorn running on http://0.0.0.0:5084 (Press CTRL+C to quit)
+INFO:     Started reloader process [571425] using StatReload
+INFO:     Started server process [571427]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     94.25.68.223:6962 - "GET /docs HTTP/1.1" 200 OK
+INFO:     94.25.68.223:6979 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     94.25.68.223:6979 - "GET /docs HTTP/1.1" 200 OK
+INFO:     94.25.68.223:6979 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     94.25.68.223:6979 - "GET /buses/ HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     195.184.76.95:59705 - "GET / HTTP/1.1" 404 Not Found
+INFO:     91.230.168.24:53091 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     94.25.68.223:14020 - "GET /docs HTTP/1.1" 200 OK
+INFO:     94.25.68.223:13607 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     94.25.68.223:5403 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     94.25.68.223:5403 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     94.25.68.223:5422 - "POST /auth/registration HTTP/1.1" 200 OK
+INFO:     94.25.68.223:5422 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     45.144.154.108:43042 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+INFO:     45.144.154.108:60100 - "POST /auth/login HTTP/1.1" 200 OK
